@@ -22,7 +22,7 @@ Measuring police response time efficiency
 
 ## ⚙️ Process:
 
--1 Data Cleaning & Preparation:
+- 1 Data Cleaning & Preparation:
 
   Handled missing values and standardized column names.
 
@@ -30,13 +30,13 @@ Measuring police response time efficiency
 
   Categorized accident causes and weather types.
 
--2 Data Modeling:
+- 2 Data Modeling:
 
   Established relationships between accident, casualty, and location tables.
 
   Created calculated measures for YOY comparison and total counts using DAX.
 
--3 Dashboard Development:
+- 3 Dashboard Development:
 
   Built KPIs for fatal, major, and minor casualties.
 
@@ -46,38 +46,38 @@ Measuring police response time efficiency
 
   Enhanced visual appeal with color themes and icons for better readability
 
-## Dashboard
+## Dashboard:
 - <a href = "https://github.com/anjali252013/road-accident-analysis/blob/main/road%20accident1.png">viewdashborad</a>
 
 ## ✔ Key Insights:
 
--Total Casualties (2025): 1,026
+- Total Casualties (2025): 1,026
 
--YOY Casualty Increase: 19% rise from 2024
+- YOY Casualty Increase: 19% rise from 2024
 
--Fatal Casualties: 169 (↓3%)
+- Fatal Casualties: 169 (↓3%)
 
--Major Casualties: 166 (↑52%)
+- Major Casualties: 166 (↑52%)
 
--Minor Casualties: 169 (↑22%)
+- Minor Casualties: 169 (↑22%)
 
--Average Police Response Time: 22.7 minutes
+- Average Police Response Time: 22.7 minutes
 
--Rural Areas accounted for 53% of total casualties.
+- Rural Areas accounted for 53% of total casualties.
 
--Top Causes: Overspeeding, Drunk Driving, and Poor Visibility.
+- Top Causes: Overspeeding, Drunk Driving, and Poor Visibility.
 
--Bike and Truck accidents were the most frequent vehicle types involved.
+- Bike and Truck accidents were the most frequent vehicle types involved.
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies:
 
--Power BI for Data Visualization
+- Power BI for Data Visualization
 
--Excel / CSV for Data Source
+- Excel / CSV for Data Source
 
--DAX (Data Analysis Expressions) for calculated measures
+- DAX (Data Analysis Expressions) for calculated measures
 
--Data Cleaning & Transformation: Power Query
+- Data Cleaning & Transformation: Power Query
 
 
 ## 🧠 Conclusion:
