@@ -15,27 +15,27 @@ Measuring police response time efficiency
 
 1. Data Cleaning & Preparation:
 
-  Handled missing values and standardized column names.
+     Handled missing values and standardized column names.
 
-  Removed duplicates and corrected inconsistent entries.
+     Removed duplicates and corrected inconsistent entries.
 
-  Categorized accident causes and weather types.
+     Categorized accident causes and weather types.
 
 2. Data Modeling:
 
-  Established relationships between accident, casualty, and location tables.
-
-  Created calculated measures for YOY comparison and total counts using DAX.
+     Established relationships between accident, casualty, and location tables.
+  
+     Created calculated measures for YOY comparison and total counts using DAX.
 
 3. Dashboard Development:
 
-  Built KPIs for fatal, major, and minor casualties.
+     Built KPIs for fatal, major, and minor casualties.
 
-  Designed visual cards, bar charts, and donut charts for detailed breakdowns.
+     Designed visual cards, bar charts, and donut charts for detailed breakdowns.
 
-  Added slicers for dynamic filtering by year and location.
+     Added slicers for dynamic filtering by year and location.
 
-  Enhanced visual appeal with color themes and icons for better readability
+     Enhanced visual appeal with color themes and icons for better readability
 
 ## Dashboard:
 <img width="997" height="564" alt="screenshot roadaccident" src="https://github.com/user-attachments/assets/44c34eec-cb11-4a79-bede-d1cceaaa2d03" />
