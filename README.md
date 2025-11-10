@@ -6,23 +6,14 @@ Identifying key contributing factors like weather, driver behavior, and vehicle 
 Measuring police response time efficiency
 
 ## Data Set Used:
-- <a href = "https://github.com/anjali252013/road-accident-analysis/blob/main/road%20accident2.pbix">dataset<a</a>
+- <a href = "https://github.com/anjali252013/road-accident-analysis/blob/main/road%20accident2.pbix">dataset</a>
 
-## Question:
-
-
-
-
-
-
-
-
-
-
+## Dashboard Interaction:
+- <a href = "https://github.com/anjali252013/road-accident-analysis/blob/main/road%20accident1.png">viewdashborad</a>
 
 ## ⚙️ Process:
 
-- 1 Data Cleaning & Preparation:
+1. Data Cleaning & Preparation:
 
   Handled missing values and standardized column names.
 
@@ -30,13 +21,13 @@ Measuring police response time efficiency
 
   Categorized accident causes and weather types.
 
-- 2 Data Modeling:
+2. Data Modeling:
 
   Established relationships between accident, casualty, and location tables.
 
   Created calculated measures for YOY comparison and total counts using DAX.
 
-- 3 Dashboard Development:
+3. Dashboard Development:
 
   Built KPIs for fatal, major, and minor casualties.
 
@@ -47,7 +38,8 @@ Measuring police response time efficiency
   Enhanced visual appeal with color themes and icons for better readability
 
 ## Dashboard:
-- <a href = "https://github.com/anjali252013/road-accident-analysis/blob/main/road%20accident1.png">viewdashborad</a>
+<img width="997" height="564" alt="screenshot roadaccident" src="https://github.com/user-attachments/assets/44c34eec-cb11-4a79-bede-d1cceaaa2d03" />
+
 
 ## ✔ Key Insights:
 
