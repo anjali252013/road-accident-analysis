@@ -22,7 +22,7 @@ Measuring police response time efficiency
 
 ## ⚙️ Process:
 
--Data Cleaning & Preparation
+-1 Data Cleaning & Preparation:
 
   Handled missing values and standardized column names.
 
@@ -30,13 +30,13 @@ Measuring police response time efficiency
 
   Categorized accident causes and weather types.
 
--Data Modeling
+-2 Data Modeling:
 
   Established relationships between accident, casualty, and location tables.
 
   Created calculated measures for YOY comparison and total counts using DAX.
 
--Dashboard Development
+-3 Dashboard Development:
 
   Built KPIs for fatal, major, and minor casualties.
 
@@ -68,6 +68,17 @@ Measuring police response time efficiency
 -Top Causes: Overspeeding, Drunk Driving, and Poor Visibility.
 
 -Bike and Truck accidents were the most frequent vehicle types involved.
+
+## 🛠️ Tools & Technologies
+
+-Power BI for Data Visualization
+
+-Excel / CSV for Data Source
+
+-DAX (Data Analysis Expressions) for calculated measures
+
+-Data Cleaning & Transformation: Power Query
+
 
 ## 🧠 Conclusion:
 
